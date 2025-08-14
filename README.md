@@ -1,4 +1,4 @@
-# AI-Powered-Resume-Analyzer-Chatbot-AI-Powered Resume Analyzer Chatbot (RAG + Gemini)
+# AI-Powered-Resume-Analyzer & Chatbot
 
 `Overview`
 
